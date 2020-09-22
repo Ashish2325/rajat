@@ -2,6 +2,9 @@
     margin:0;
     padding: 0;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color: rgb(243, 255, 255);}
 #brand{
@@ -122,4 +125,13 @@ footer{
     width: 100%;
     text-align: center;
     padding-top: 15px;
+}
+#work-project{
+    margin-top: 60px;
+}
+.card-img-top{
+    height:400px;
+}
+.card-title{
+    color:
 }
