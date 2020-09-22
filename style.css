@@ -1,4 +1,4 @@
-*{
+o*{
     margin:0;
     padding: 0;
 }
@@ -132,6 +132,27 @@ footer{
 .card-img-top{
     height:400px;
 }
-.card-title{
-    color:
+header h1{
+    width: 255px;
+    margin-left: 20%;
+    color:navy;
+    border-radius: 20px;
+    background-color:lightgray ;
+
+    font-style: Georgia, 'Times New Roman', Times, serif;
+}
+.container h3{
+    margin-left:13.5%;
+    margin-top: 5%;
+    margin-bottom: -4%;
+}
+.container2 h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: -4%;
+}
+.progress{
+    margin:50px 150px;
 }
